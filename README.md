@@ -23,7 +23,7 @@
  
  * **Check the keyboard input with the `Keylogger` service**  
  
- * **Screenshots are shared to your webpanel**
+ * **Fast screenshot sharing to web server **
  
  * **Makes smart calculations about the data `storage` sizes of computers.**
  
