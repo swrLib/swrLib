@@ -31,10 +31,10 @@
  
  * **Allows you to close/start running system applications.**  
  
- * **Taskmanager and app threads block system
+ * **Taskmanager and app threads block system**
  
- * **Information get `CPU usage/process`  and `Disk read/write` speed 
+ * **Information get `CPU usage/process`  and `Disk read/write` speed** 
 
- * **Full-time shared computer access center account
+ * **Full-time shared computer access center account**
  
- * **Disk analysis and more
+ * **Disk analysis and more.**
