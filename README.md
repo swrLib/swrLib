@@ -38,3 +38,10 @@
  * **Full-time shared computer access center account**
  
  * **Disk analysis and more.**
+
+### Social network
+
+ * **Platforms DCS systems will support very soon**
+ * `Instagram,Discord,Telegram,WhatsApp,WeatherMap...`
+ * **Available upon receipt of licenses(is limited): **
+ * `Instagram,Discord`
