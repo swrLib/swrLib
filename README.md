@@ -47,12 +47,11 @@
  * `Instagram,Discord,Telegram,WhatsApp,WeatherMap...`
  * **Available upon receipt of licenses(is limited):**
  * `Instagram,Discord`
-
+```
 ### Licenses 
-  ```
   > All rights reserved. 2020-2023.
   > Data storage is shared with google. 
   > Libraries used control events.
   > Data on the web server can be updated and deleted.
   > If data stolen within the framework of data security policy, it will be deleted.
-  ```
+```
