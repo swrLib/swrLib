@@ -30,3 +30,11 @@
  * **All applications running on the system are displayed.**
  
  * **Allows you to close/start running system applications.**  
+ 
+ * **Taskmanager and app threads block system
+ 
+ * **Information get `CPU usage/process`  and `Disk read/write` speed 
+
+ * **Full-time shared computer access center account
+ 
+ * **Disk analysis and more
