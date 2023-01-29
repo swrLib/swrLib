@@ -37,7 +37,9 @@
 
  * **Full-time shared computer access center account**
  
- * **Disk analysis and more.**
+ * **`Bios` information.**
+
+ * **Web remote file explorer.**
 
 ### Social network
 
