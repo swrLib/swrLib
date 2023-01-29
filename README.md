@@ -43,5 +43,5 @@
 
  * **Platforms DCS systems will support very soon**
  * `Instagram,Discord,Telegram,WhatsApp,WeatherMap...`
- * **Available upon receipt of licenses(is limited): **
+ * **Available upon receipt of licenses(is limited):**
  * `Instagram,Discord`
